@@ -1,0 +1,14 @@
+{
+  "name": "fastlz.js",
+  "version": "1.0.2",
+  "description": "this is compress everything for js",
+  "main": "fastlz.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "compress"
+  ],
+  "author": "agent.zy",
+  "license": "ISC"
+}
